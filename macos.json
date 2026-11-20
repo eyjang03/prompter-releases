@@ -1,15 +1,15 @@
 {
-  "version": "0.2.6",
-  "release": "0.2.6-2fa615a",
+  "version": "0.2.7",
+  "release": "0.2.7-6481e07",
   "architecture": "arm64",
   "minimumMacOS": "26.0",
-  "url": "https://github.com/eyjang03/prompter-releases/releases/download/v0.2.6/Prompter_0.2.6-2fa615a_arm64.zip",
-  "bytes": 6941912,
-  "sha256": "08de23ffb374159c1e2a5fc914e9e276863b4d8c623388c4c70ad68d0868f7fa",
+  "url": "https://github.com/eyjang03/prompter-releases/releases/download/v0.2.7/Prompter_0.2.7-6481e07_arm64.zip",
+  "bytes": 6945402,
+  "sha256": "8ec32b22480a839a292678884ae6e69f8a6171a388da8936e2cfadc50ac3f3db",
   "dmg": {
-    "url": "https://github.com/eyjang03/prompter-releases/releases/download/v0.2.6/Prompter_0.2.6-2fa615a_arm64.dmg",
-    "bytes": 7326722,
-    "sha256": "eb7585f0c5d04bd9c10627dd32d6473b5f9889ecdc9ec874b3ae1bb1c98db50b"
+    "url": "https://github.com/eyjang03/prompter-releases/releases/download/v0.2.7/Prompter_0.2.7-6481e07_arm64.dmg",
+    "bytes": 7332151,
+    "sha256": "52e4c1a6a25a44d6e98a48eeb3cea20f97fa6b2e1b2ad8f5e8b35a16c57e505e"
   },
-  "publishedAt": "2026-11-20T04:44:06Z"
+  "publishedAt": "2026-11-20T05:33:40Z"
 }
